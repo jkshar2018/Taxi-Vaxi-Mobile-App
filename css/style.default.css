@@ -170,6 +170,9 @@ section header {
   .container-fluid {
     padding: 0 3rem;
   }
+  .hr-tab{
+    font-size:20px;
+  }
 }
 
 .list-group-item {
@@ -3111,7 +3114,7 @@ section .section-title {
   border-top-left-radius: .25rem;
   border-top-right-radius: .25rem;
   color: #33b35a;
-  font-size: 85%;
+  font-size: 10px;
 }
 /*******/
 
