@@ -3128,7 +3128,7 @@ section .section-title {
 {
   width:100%;
 }
-.container1,.container3
+.container1
 {
   background: white;
   width:99%;
@@ -3144,6 +3144,15 @@ section .section-title {
 {
  margin-top:15px;
  padding-top:12px;
+ background: white;
+  width:80%;
+ 
+  margin:auto;
+ 
+  -webkit-box-shadow:1px 14px 77px -17px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 1px 14px 77px -17px rgba(0, 0, 0, 0.1);
+  box-shadow: 1px 14px 77px -17px rgba(0, 0, 0, 0.1);
+   
 }
 .container2
 {
