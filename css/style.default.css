@@ -3134,7 +3134,7 @@ section .section-title {
   width:99%;
  
   margin:auto;
-  
+ 
   -webkit-box-shadow:1px 14px 77px -17px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 1px 14px 77px -17px rgba(0, 0, 0, 0.1);
   box-shadow: 1px 14px 77px -17px rgba(0, 0, 0, 0.1);
@@ -3153,7 +3153,7 @@ section .section-title {
 -moz-box-shadow: 1px 14px 77px -17px rgba(0, 0, 0, 0.1);
 box-shadow: 1px 14px 77px -17pxrgba(0, 0, 0, 0.1);
  
-  padding:6px;
+ 
   margin:auto;
   margin-top:15px;
 
