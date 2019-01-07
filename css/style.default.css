@@ -3165,6 +3165,7 @@ box-shadow: 1px 14px 77px -17pxrgba(0, 0, 0, 0.1);
 .padding-top-bottom
 {
   padding-top: 4px;
+  font-size:0.7rem;
   padding-bottom: 4px;
 }
 .section-heading
