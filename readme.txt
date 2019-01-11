@@ -181,3 +181,6 @@ Thank you for understanding and respecting the license conditions.
 ---------------------
 
 https://twitter.com/bootstrapious | https://google.com/+Bootstrapious1 | https://www.facebook.com/bootstrapious | hello@bootstrapious.com
+It is deployed on herouku using the same login and password
+login jkshar2018@gmail.com
+password taxivaxi@2018
